@@ -1,2 +1,1 @@
-console.log("Aguanten los Ciclos")
-for()
+console.log("el for no puede estar vacio")
